@@ -1,1 +1,0 @@
-"# Sorteo_twitch" 
